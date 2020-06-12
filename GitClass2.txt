@@ -1,3 +1,8 @@
 Our second Git class
 
 1st pile of changes
+
+//I am going to be adding a couple more lines of code to this so that i can learn what i am doing in git.
+
+//disregaurd these changes please, jsut an experiment.
+thank you
